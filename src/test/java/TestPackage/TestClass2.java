@@ -10,6 +10,14 @@ public class TestClass2 {
 		System.out.println("insite TestClass2Method1");
 	}
 	
+	@Test
+	public static void TestClass2Method2() {
+		
+		System.out.println("insite TestClass2Method2");
+	}
+	
+	
+	
 	
 	
 
